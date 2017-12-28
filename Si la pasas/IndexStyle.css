@@ -1,0 +1,44 @@
+* {
+	margin: 0;
+	padding: 0;	 
+}
+
+body {
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+h1 {
+	padding-left: 355px;
+	padding-bottom: 250px;
+	padding-top: 50px; 
+	font-family: Helvetica;
+	font-size: 50px;
+	color: white;
+	background-image: url("https://images.pexels.com/photos/301920/pexels-photo-301920.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb");
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: 0px 700px;
+}
+
+h2 {
+	padding-top: 20px;
+	padding-left: 355px;	
+	font-family: Helvetica;
+	color: black;
+}
+
+form {
+	padding-left: 355px;
+	padding-top: 30px;
+}
+
+input{
+	font-family: Helvetica;
+}
+
+.sub {
+	padding-top: 5px;
+	font-family: Helvetica;
+	color: grey;
+}
